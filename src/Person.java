@@ -1,6 +1,3 @@
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Scanner;
 
